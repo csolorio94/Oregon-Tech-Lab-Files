@@ -1,0 +1,9 @@
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment1_SolorioCarlos\Ex2\TwoLargestNum\TwoLargestNum\obj\Debug\TwoLargestNum.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment1_SolorioCarlos\Ex2\TwoLargestNum\TwoLargestNum\obj\Debug\TwoLargestNum.Form1.resources
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment1_SolorioCarlos\Ex2\TwoLargestNum\TwoLargestNum\obj\Debug\TwoLargestNum.Properties.Resources.resources
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment1_SolorioCarlos\Ex2\TwoLargestNum\TwoLargestNum\obj\Debug\TwoLargestNum.csproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment1_SolorioCarlos\Ex2\TwoLargestNum\TwoLargestNum\bin\Debug\TwoLargestNum.exe.config
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment1_SolorioCarlos\Ex2\TwoLargestNum\TwoLargestNum\bin\Debug\TwoLargestNum.exe
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment1_SolorioCarlos\Ex2\TwoLargestNum\TwoLargestNum\bin\Debug\TwoLargestNum.pdb
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment1_SolorioCarlos\Ex2\TwoLargestNum\TwoLargestNum\obj\Debug\TwoLargestNum.exe
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment1_SolorioCarlos\Ex2\TwoLargestNum\TwoLargestNum\obj\Debug\TwoLargestNum.pdb

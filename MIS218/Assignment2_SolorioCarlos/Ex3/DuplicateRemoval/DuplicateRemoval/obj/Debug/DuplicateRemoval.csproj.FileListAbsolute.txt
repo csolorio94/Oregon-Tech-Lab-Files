@@ -1,0 +1,9 @@
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment2_SolorioCarlos\Ex3\DuplicateRemoval\DuplicateRemoval\bin\Debug\DuplicateRemoval.exe.config
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment2_SolorioCarlos\Ex3\DuplicateRemoval\DuplicateRemoval\bin\Debug\DuplicateRemoval.exe
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment2_SolorioCarlos\Ex3\DuplicateRemoval\DuplicateRemoval\bin\Debug\DuplicateRemoval.pdb
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment2_SolorioCarlos\Ex3\DuplicateRemoval\DuplicateRemoval\obj\Debug\DuplicateRemoval.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment2_SolorioCarlos\Ex3\DuplicateRemoval\DuplicateRemoval\obj\Debug\DuplicateRemoval.Form1.resources
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment2_SolorioCarlos\Ex3\DuplicateRemoval\DuplicateRemoval\obj\Debug\DuplicateRemoval.Properties.Resources.resources
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment2_SolorioCarlos\Ex3\DuplicateRemoval\DuplicateRemoval\obj\Debug\DuplicateRemoval.csproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment2_SolorioCarlos\Ex3\DuplicateRemoval\DuplicateRemoval\obj\Debug\DuplicateRemoval.exe
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment2_SolorioCarlos\Ex3\DuplicateRemoval\DuplicateRemoval\obj\Debug\DuplicateRemoval.pdb

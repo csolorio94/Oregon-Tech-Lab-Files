@@ -1,0 +1,4 @@
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment5_SolorioCarlos\Ex2\InventoryLibrary\InventoryLibrary\bin\Release\InventoryLibrary.dll
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment5_SolorioCarlos\Ex2\InventoryLibrary\InventoryLibrary\bin\Release\InventoryLibrary.pdb
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment5_SolorioCarlos\Ex2\InventoryLibrary\InventoryLibrary\obj\Release\InventoryLibrary.dll
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment5_SolorioCarlos\Ex2\InventoryLibrary\InventoryLibrary\obj\Release\InventoryLibrary.pdb

@@ -1,0 +1,11 @@
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment6_SolorioCarlos\Ex1\StateMaintenance\StateMaintenance\bin\Debug\MMABooks.mdf
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment6_SolorioCarlos\Ex1\StateMaintenance\StateMaintenance\bin\Debug\MMABooks_log.ldf
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment6_SolorioCarlos\Ex1\StateMaintenance\StateMaintenance\bin\Debug\StateMaintenance.exe.config
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment6_SolorioCarlos\Ex1\StateMaintenance\StateMaintenance\bin\Debug\StateMaintenance.exe
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment6_SolorioCarlos\Ex1\StateMaintenance\StateMaintenance\bin\Debug\StateMaintenance.pdb
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment6_SolorioCarlos\Ex1\StateMaintenance\StateMaintenance\obj\Debug\StateMaintenance.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment6_SolorioCarlos\Ex1\StateMaintenance\StateMaintenance\obj\Debug\StateMaintenance.Form1.resources
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment6_SolorioCarlos\Ex1\StateMaintenance\StateMaintenance\obj\Debug\StateMaintenance.Properties.Resources.resources
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment6_SolorioCarlos\Ex1\StateMaintenance\StateMaintenance\obj\Debug\StateMaintenance.csproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment6_SolorioCarlos\Ex1\StateMaintenance\StateMaintenance\obj\Debug\StateMaintenance.exe
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment6_SolorioCarlos\Ex1\StateMaintenance\StateMaintenance\obj\Debug\StateMaintenance.pdb

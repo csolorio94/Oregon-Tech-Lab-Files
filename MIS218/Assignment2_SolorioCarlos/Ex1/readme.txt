@@ -1,0 +1,1 @@
+User may enter a new item or delete any current or newly added items

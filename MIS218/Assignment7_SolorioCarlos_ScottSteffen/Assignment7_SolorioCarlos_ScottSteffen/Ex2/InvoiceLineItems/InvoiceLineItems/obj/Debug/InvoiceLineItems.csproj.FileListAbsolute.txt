@@ -1,0 +1,31 @@
+C:\Users\sajinor\Documents\Visual Studio 2017\Projects\InvoiceLineItems\InvoiceLineItems\bin\Debug\MMABooks.mdf
+C:\Users\sajinor\Documents\Visual Studio 2017\Projects\InvoiceLineItems\InvoiceLineItems\bin\Debug\MMABooks_log.ldf
+C:\Users\sajinor\Documents\Visual Studio 2017\Projects\InvoiceLineItems\InvoiceLineItems\bin\Debug\MMABooksDataSet.Designer.cs
+C:\Users\sajinor\Documents\Visual Studio 2017\Projects\InvoiceLineItems\InvoiceLineItems\bin\Debug\MMABooksDataSet.xsc
+C:\Users\sajinor\Documents\Visual Studio 2017\Projects\InvoiceLineItems\InvoiceLineItems\bin\Debug\MMABooksDataSet.xsd
+C:\Users\sajinor\Documents\Visual Studio 2017\Projects\InvoiceLineItems\InvoiceLineItems\bin\Debug\MMABooksDataSet.xss
+C:\Users\sajinor\Documents\Visual Studio 2017\Projects\InvoiceLineItems\InvoiceLineItems\bin\Debug\InvoiceLineItems.exe.config
+C:\Users\sajinor\Documents\Visual Studio 2017\Projects\InvoiceLineItems\InvoiceLineItems\bin\Debug\InvoiceLineItems.exe
+C:\Users\sajinor\Documents\Visual Studio 2017\Projects\InvoiceLineItems\InvoiceLineItems\bin\Debug\InvoiceLineItems.pdb
+C:\Users\sajinor\Documents\Visual Studio 2017\Projects\InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.csprojResolveAssemblyReference.cache
+C:\Users\sajinor\Documents\Visual Studio 2017\Projects\InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.Form1.resources
+C:\Users\sajinor\Documents\Visual Studio 2017\Projects\InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.Properties.Resources.resources
+C:\Users\sajinor\Documents\Visual Studio 2017\Projects\InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.csproj.GenerateResource.Cache
+C:\Users\sajinor\Documents\Visual Studio 2017\Projects\InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.csproj.CoreCompileInputs.cache
+C:\Users\sajinor\Documents\Visual Studio 2017\Projects\InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.exe
+C:\Users\sajinor\Documents\Visual Studio 2017\Projects\InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.pdb
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment7_SolorioCarlos_ScottSteffen\Ex2\InvoiceLineItems\InvoiceLineItems\bin\Debug\MMABooks.mdf
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment7_SolorioCarlos_ScottSteffen\Ex2\InvoiceLineItems\InvoiceLineItems\bin\Debug\MMABooks_log.ldf
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment7_SolorioCarlos_ScottSteffen\Ex2\InvoiceLineItems\InvoiceLineItems\bin\Debug\MMABooksDataSet.Designer.cs
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment7_SolorioCarlos_ScottSteffen\Ex2\InvoiceLineItems\InvoiceLineItems\bin\Debug\MMABooksDataSet.xsc
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment7_SolorioCarlos_ScottSteffen\Ex2\InvoiceLineItems\InvoiceLineItems\bin\Debug\MMABooksDataSet.xsd
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment7_SolorioCarlos_ScottSteffen\Ex2\InvoiceLineItems\InvoiceLineItems\bin\Debug\MMABooksDataSet.xss
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment7_SolorioCarlos_ScottSteffen\Ex2\InvoiceLineItems\InvoiceLineItems\bin\Debug\InvoiceLineItems.exe.config
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment7_SolorioCarlos_ScottSteffen\Ex2\InvoiceLineItems\InvoiceLineItems\bin\Debug\InvoiceLineItems.exe
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment7_SolorioCarlos_ScottSteffen\Ex2\InvoiceLineItems\InvoiceLineItems\bin\Debug\InvoiceLineItems.pdb
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment7_SolorioCarlos_ScottSteffen\Ex2\InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment7_SolorioCarlos_ScottSteffen\Ex2\InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.Form1.resources
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment7_SolorioCarlos_ScottSteffen\Ex2\InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.Properties.Resources.resources
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment7_SolorioCarlos_ScottSteffen\Ex2\InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.csproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment7_SolorioCarlos_ScottSteffen\Ex2\InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.exe
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment7_SolorioCarlos_ScottSteffen\Ex2\InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.pdb

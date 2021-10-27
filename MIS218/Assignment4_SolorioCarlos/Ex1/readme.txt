@@ -1,0 +1,1 @@
+Inventory maintenance with IDisplayable implementation

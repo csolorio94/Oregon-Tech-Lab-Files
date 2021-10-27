@@ -1,0 +1,5 @@
+TBL100 | Oak Table | 799.99
+CH23 | Cherry Captains Chair | 199.99
+TBL103 | WalnutTable | 1999.0
+CA5 | Chest Five Drawer | 639.0
+MIS285 | Super awesome thing | 99999.99

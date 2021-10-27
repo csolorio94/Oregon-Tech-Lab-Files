@@ -1,0 +1,5 @@
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment5_SolorioCarlos\Ex4\ReservationLib\ReservationLib\bin\Release\ReservationLib.dll
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment5_SolorioCarlos\Ex4\ReservationLib\ReservationLib\bin\Release\ReservationLib.pdb
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment5_SolorioCarlos\Ex4\ReservationLib\ReservationLib\obj\Release\ReservationLib.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment5_SolorioCarlos\Ex4\ReservationLib\ReservationLib\obj\Release\ReservationLib.dll
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment5_SolorioCarlos\Ex4\ReservationLib\ReservationLib\obj\Release\ReservationLib.pdb

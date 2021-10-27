@@ -1,0 +1,89 @@
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 12\InventoryMaintenance\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 12\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.csprojResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 12\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmNewItem.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 12\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmInvMaint.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 12\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 12\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.csproj.GenerateResource.Cache
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 12\InventoryMaintenance\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 12\InventoryMaintenance\InventoryMaintenance\bin\Debug\InventoryMaintenance.pdb
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 12\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.exe
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 12\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.pdb
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 13\InventoryMaintenance\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 13\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.exe
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 13\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.pdb
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 13\InventoryMaintenance\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 13\InventoryMaintenance\InventoryMaintenance\bin\Debug\InventoryMaintenance.pdb
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 13\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.csprojResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 13\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmNewItem.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 13\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmInvMaint.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 13\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercises\Chapter 13\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.csproj.GenerateResource.Cache
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 13\InventoryMaintenance\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 13\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.exe
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 13\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.pdb
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 13\InventoryMaintenance\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 13\InventoryMaintenance\InventoryMaintenance\bin\Debug\InventoryMaintenance.pdb
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 13\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.csprojResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 13\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmNewItem.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 13\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmInvMaint.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 13\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 13\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.csproj.GenerateResource.Cache
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 14\InventoryMaintenance\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 14\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.exe
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 14\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.pdb
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 14\InventoryMaintenance\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 14\InventoryMaintenance\InventoryMaintenance\bin\Debug\InventoryMaintenance.pdb
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 14\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.csprojResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 14\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmNewItem.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 14\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmInvMaint.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 14\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 14\InventoryMaintenance\InventoryMaintenance\obj\Debug\InventoryMaintenance.csproj.GenerateResource.Cache
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 15\InventoryMaintenance with IDisplayable\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 15\InventoryMaintenance with IDisplayable\InventoryMaintenance\obj\Debug\InventoryMaintenance.exe
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 15\InventoryMaintenance with IDisplayable\InventoryMaintenance\obj\Debug\InventoryMaintenance.pdb
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 15\InventoryMaintenance with IDisplayable\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 15\InventoryMaintenance with IDisplayable\InventoryMaintenance\bin\Debug\InventoryMaintenance.pdb
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 15\InventoryMaintenance with IDisplayable\InventoryMaintenance\obj\Debug\InventoryMaintenance.csprojResolveAssemblyReference.cache
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 15\InventoryMaintenance with IDisplayable\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmNewItem.resources
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 15\InventoryMaintenance with IDisplayable\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmInvMaint.resources
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 15\InventoryMaintenance with IDisplayable\InventoryMaintenance\obj\Debug\InventoryMaintenance.Properties.Resources.resources
+C:\C# 2012 Instructor's CD\Extra exercises\Chapter 15\InventoryMaintenance with IDisplayable\InventoryMaintenance\obj\Debug\InventoryMaintenance.csproj.GenerateResource.Cache
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 15\InventoryMaintenance with IDisplayable\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 15\InventoryMaintenance with IDisplayable\InventoryMaintenance\obj\Debug\InventoryMaintenance.exe
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 15\InventoryMaintenance with IDisplayable\InventoryMaintenance\obj\Debug\InventoryMaintenance.pdb
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 15\InventoryMaintenance with IDisplayable\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 15\InventoryMaintenance with IDisplayable\InventoryMaintenance\bin\Debug\InventoryMaintenance.pdb
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 15\InventoryMaintenance with IDisplayable\InventoryMaintenance\obj\Debug\InventoryMaintenance.csprojResolveAssemblyReference.cache
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 15\InventoryMaintenance with IDisplayable\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmNewItem.resources
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 15\InventoryMaintenance with IDisplayable\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmInvMaint.resources
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 15\InventoryMaintenance with IDisplayable\InventoryMaintenance\obj\Debug\InventoryMaintenance.Properties.Resources.resources
+C:\C# 2015\Extra exercises\Exercise starts\Chapter 15\InventoryMaintenance with IDisplayable\InventoryMaintenance\obj\Debug\InventoryMaintenance.csproj.GenerateResource.Cache
+C:\Projects\Forte\_2016_3_Fall_mis218_csharp_db\Webpage\assignments\MurachExerciseStarts\Chapter15\InventoryMaintI15_DisplayableStart\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\Projects\Forte\_2016_3_Fall_mis218_csharp_db\Webpage\assignments\MurachExerciseStarts\Chapter15\InventoryMaintI15_DisplayableStart\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe
+C:\Projects\Forte\_2016_3_Fall_mis218_csharp_db\Webpage\assignments\MurachExerciseStarts\Chapter15\InventoryMaintI15_DisplayableStart\InventoryMaintenance\bin\Debug\InventoryMaintenance.pdb
+C:\Projects\Forte\_2016_3_Fall_mis218_csharp_db\Webpage\assignments\MurachExerciseStarts\Chapter15\InventoryMaintI15_DisplayableStart\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmNewItem.resources
+C:\Projects\Forte\_2016_3_Fall_mis218_csharp_db\Webpage\assignments\MurachExerciseStarts\Chapter15\InventoryMaintI15_DisplayableStart\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmInvMaint.resources
+C:\Projects\Forte\_2016_3_Fall_mis218_csharp_db\Webpage\assignments\MurachExerciseStarts\Chapter15\InventoryMaintI15_DisplayableStart\InventoryMaintenance\obj\Debug\InventoryMaintenance.Properties.Resources.resources
+C:\Projects\Forte\_2016_3_Fall_mis218_csharp_db\Webpage\assignments\MurachExerciseStarts\Chapter15\InventoryMaintI15_DisplayableStart\InventoryMaintenance\obj\Debug\InventoryMaintenance.csproj.GenerateResource.Cache
+C:\Projects\Forte\_2016_3_Fall_mis218_csharp_db\Webpage\assignments\MurachExerciseStarts\Chapter15\InventoryMaintI15_DisplayableStart\InventoryMaintenance\obj\Debug\InventoryMaintenance.exe
+C:\Projects\Forte\_2016_3_Fall_mis218_csharp_db\Webpage\assignments\MurachExerciseStarts\Chapter15\InventoryMaintI15_DisplayableStart\InventoryMaintenance\obj\Debug\InventoryMaintenance.pdb
+C:\Projects\Forte\_2016_3_Fall_mis218_csharp_db\Webpage\assignments\MurachExerciseStarts\Chapter15\InventoryMaint15_IDisplayableStart\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\Projects\Forte\_2016_3_Fall_mis218_csharp_db\Webpage\assignments\MurachExerciseStarts\Chapter15\InventoryMaint15_IDisplayableStart\InventoryMaintenance\obj\Debug\InventoryMaintenance.exe
+C:\Projects\Forte\_2016_3_Fall_mis218_csharp_db\Webpage\assignments\MurachExerciseStarts\Chapter15\InventoryMaint15_IDisplayableStart\InventoryMaintenance\obj\Debug\InventoryMaintenance.pdb
+C:\Projects\Forte\_2016_3_Fall_mis218_csharp_db\Webpage\assignments\MurachExerciseStarts\Chapter15\InventoryMaint15_IDisplayableStart\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe
+C:\Projects\Forte\_2016_3_Fall_mis218_csharp_db\Webpage\assignments\MurachExerciseStarts\Chapter15\InventoryMaint15_IDisplayableStart\InventoryMaintenance\bin\Debug\InventoryMaintenance.pdb
+C:\Projects\Forte\_2016_3_Fall_mis218_csharp_db\Webpage\assignments\MurachExerciseStarts\Chapter15\InventoryMaint15_IDisplayableStart\InventoryMaintenance\obj\Debug\InventoryMaintenance.csprojResolveAssemblyReference.cache
+C:\Projects\Forte\_2016_3_Fall_mis218_csharp_db\Webpage\assignments\MurachExerciseStarts\Chapter15\InventoryMaint15_IDisplayableStart\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmNewItem.resources
+C:\Projects\Forte\_2016_3_Fall_mis218_csharp_db\Webpage\assignments\MurachExerciseStarts\Chapter15\InventoryMaint15_IDisplayableStart\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmInvMaint.resources
+C:\Projects\Forte\_2016_3_Fall_mis218_csharp_db\Webpage\assignments\MurachExerciseStarts\Chapter15\InventoryMaint15_IDisplayableStart\InventoryMaintenance\obj\Debug\InventoryMaintenance.Properties.Resources.resources
+C:\Projects\Forte\_2016_3_Fall_mis218_csharp_db\Webpage\assignments\MurachExerciseStarts\Chapter15\InventoryMaint15_IDisplayableStart\InventoryMaintenance\obj\Debug\InventoryMaintenance.csproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment4_SolorioCarlos\Ex1\InventoryMaint15_IDisplayableStart\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe.config
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment4_SolorioCarlos\Ex1\InventoryMaint15_IDisplayableStart\InventoryMaintenance\bin\Debug\InventoryMaintenance.exe
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment4_SolorioCarlos\Ex1\InventoryMaint15_IDisplayableStart\InventoryMaintenance\bin\Debug\InventoryMaintenance.pdb
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment4_SolorioCarlos\Ex1\InventoryMaint15_IDisplayableStart\InventoryMaintenance\obj\Debug\InventoryMaintenance.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment4_SolorioCarlos\Ex1\InventoryMaint15_IDisplayableStart\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmNewItem.resources
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment4_SolorioCarlos\Ex1\InventoryMaint15_IDisplayableStart\InventoryMaintenance\obj\Debug\InventoryMaintenance.frmInvMaint.resources
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment4_SolorioCarlos\Ex1\InventoryMaint15_IDisplayableStart\InventoryMaintenance\obj\Debug\InventoryMaintenance.Properties.Resources.resources
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment4_SolorioCarlos\Ex1\InventoryMaint15_IDisplayableStart\InventoryMaintenance\obj\Debug\InventoryMaintenance.csproj.GenerateResource.Cache
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment4_SolorioCarlos\Ex1\InventoryMaint15_IDisplayableStart\InventoryMaintenance\obj\Debug\InventoryMaintenance.exe
+C:\Users\Carlos\Desktop\School_Work\MIS218\Assignment4_SolorioCarlos\Ex1\InventoryMaint15_IDisplayableStart\InventoryMaintenance\obj\Debug\InventoryMaintenance.pdb
